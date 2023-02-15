@@ -1,0 +1,5 @@
+name: PhantomElytra
+version: '${project.version}'
+main: de.yuze.phantomelytra.PhantomElytra
+api-version: 1.19
+authors: [ YuZe152 ]
